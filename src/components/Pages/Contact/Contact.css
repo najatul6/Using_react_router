@@ -1,0 +1,12 @@
+.contact{
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact input{
+    margin-top: 20px;
+    padding: 5px;
+}
